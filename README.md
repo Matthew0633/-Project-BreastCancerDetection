@@ -5,7 +5,7 @@
 
 서울산업진흥원(SBA)과 한국능률협회가 공동으로 진행한 교육인 '고객 데이터 분석 시스템 구축을 위한 빅데이터 전문가 양성과정'는 8월 말부터 11월 중순까지 진행되었으며, 파이썬과 머신러닝, 딥러닝 뿐만 아니라 R과 리눅스, SQL 등에 대해 다양한 교육을 진행하였습니다.
 
-*관련기사
+*관련기사*
 - [SBA-능률협회, '빅데이터 전문가 양성과정' 절찬 진행중](https://m.etnews.com/20191115000103?obj=Tzo4OiJzdGRDbGFzcyI6Mjp7czo3OiJyZWZlcmVyIjtOO3M6NzoiZm9yd2FyZCI7czoxMzoid2ViIHRvIG1vYmlsZSI7fQ%3D%3D)
 - [SBA-능률협회, 빅데이터 신사업 기획자 양성](https://www.dailygrid.net/news/articleView.html?idxno=306146)
 
